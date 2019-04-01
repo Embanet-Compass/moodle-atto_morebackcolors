@@ -1,0 +1,9 @@
+{
+    "name": "embanet-compass/moodle-atto-morebackcolors",
+    "type": "moodle-atto",
+    "description": "Atto Plugin",
+    "extra": {
+        "installer-name": "morebackcolors",
+        "moodle": { "package_folder_name" : "morebackcolors" }
+    }
+}
